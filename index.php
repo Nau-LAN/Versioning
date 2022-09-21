@@ -16,6 +16,8 @@
                 
                 <br>
 
+                <br>
+
                 <label><b>Mot de passe</b></label>
                 <input type="password" placeholder="Entrer le mot de passe" name="password" required>
 
